@@ -9,6 +9,3 @@ weight = 2
 
 {{< childpages >}}
 
-
-![](/img/image01.png)
-

@@ -5,7 +5,6 @@ weight = 1
 +++
 #
 #
-#
 
 {{< childpages >}}
 
