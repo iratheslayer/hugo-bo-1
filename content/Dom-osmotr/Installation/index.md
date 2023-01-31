@@ -1,7 +1,7 @@
 +++
 title = "Установка и Вход"
 description = ""
-weight = 3
+weight = 1
 +++
 ## Загрузка приложения
 

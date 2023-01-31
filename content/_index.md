@@ -1,26 +1,26 @@
 +++
-title = "Документация ДомОсмотр"
+title = "Документация Банк-Оценщик"
 description = "Ace is a theme for Hugo, a fast static website generator written in Go, that allows you to easily write well organized and clean documentation for your projects."
 +++
 
 {{< lead >}}
-Ace is a theme for <a href="https://gohugo.io" target="_blank">Hugo</a>, a fast static website generator written in Go, that allows you to easily write well organized and clean documentation for your projects. It's as easy as writing your content in Markdown, running Hugo to generate static HTML, CSS and Javascript files and deploying those to your web server.
+Сервис для подготовки отчетов об оценке <a href="https://ba.srg-it.ru">Банк-Оценщик</a>.
 {{< /lead >}}
 
 
-## Features
+## Возможности
 <div class="row py-3 mb-5">
 	<div class="col-md-4">
 		<div class="card flex-row border-0">
 			<div class="mt-3">
-				<span class="fas fa-tachometer-alt fa-2x text-primary"></span>
+				<span class="fas fa-mobile-alt fa-2x text-primary"></span>
 			</div>
 			<div class="card-body pl-2">
 				<h5 class="card-title">
-					Fast.
+					<a href="/dom-osmotr/" target="_blank">ДомОсмотр.</a>
 				</h5>
 				<p class="card-text text-muted">
-					Static files generated in less than a second. And served to your visitors just as fast.
+					Проведение осмотра через приложение. Быстрая и удобная загрузка материалов в отчет.
 				</p>
 			</div>
 		</div>
@@ -28,14 +28,14 @@ Ace is a theme for <a href="https://gohugo.io" target="_blank">Hugo</a>, a fast 
 	<div class="col-md-4">
 		<div class="card flex-row border-0">
 			<div class="mt-3">
-				<span class="fas fa-paint-brush fa-2x text-primary"></span>
+				<span class="fas fa-bolt fa-2x text-primary"></span>
 			</div>
 			<div class="card-body pl-2">
 				<h5 class="card-title">
-					Minimalistic.
+					Быстро.
 				</h5>
 				<p class="card-text text-muted">
-					A clean look to keep your user's attention to the content that matters: your documentation.
+					Мгновенная доставка электронного отчета в Банк.
 				</p>
 			</div>
 		</div>
@@ -43,11 +43,11 @@ Ace is a theme for <a href="https://gohugo.io" target="_blank">Hugo</a>, a fast 
 	<div class="col-md-4">
 		<div class="card flex-row border-0">
 			<div class="mt-3">
-				<span class="fas fa-project-diagram fa-2x text-primary"></span>
+				<span class="fas fa-globe fa-2x text-primary"></span>
 			</div>
 			<div class="card-body pl-2">
 				<h5 class="card-title">
-					For every project.
+					Вся Россия.
 				</h5>
 				<p class="card-text text-muted">
 					Hugo does not require Java, Python or Ruby and is available as a simple binary or through NPM and other package managers.
@@ -73,14 +73,14 @@ Ace is a theme for <a href="https://gohugo.io" target="_blank">Hugo</a>, a fast 
 	<div class="col-md-4">
 		<div class="card flex-row border-0">
 			<div class="mt-3">
-				<span class="fas fa-search fa-2x text-primary"></span>
+				<span class="fas fa-handshake fa-2x text-primary"></span>
 			</div>
 			<div class="card-body pl-2">
 				<h5 class="card-title">
-					Full search.
+					Онлайн Заказы.
 				</h5>
 				<p class="card-text text-muted">
-					Easily find the content you look for through the search function.
+					Получайте заказы на оценку онлайн.
 				</p>
 			</div>
 		</div>
@@ -125,7 +125,7 @@ Ace is a theme for <a href="https://gohugo.io" target="_blank">Hugo</a>, a fast 
 					Built with Bootstrap.
 				</h5>
 				<p class="card-text text-muted">
-					Built with <a href="https://getbootstrap.com" target="_blank">Bootstrap 4</a>. Fully responsive out of the box. Build and style page elements using Bootstrap.
+					Built with <a href="/dom-osmotr/" target="_blank">Bootstrap 4</a>. Fully responsive out of the box. Build and style page elements using Bootstrap.
 				</p>
 			</div>
 		</div>
